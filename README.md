@@ -4,7 +4,7 @@
 
 
 ### 构建scrapy容器环境
-`cd docker`
+`cd docker`  
 `docker build -t docker-scrapy .`
 
 ### 构建新的scrapy项目
